@@ -55,8 +55,22 @@ root.render(
       />
  <StudentCard
         image="image4.jpg"
-        name="sen"
-        regno="103"
+        name="Sen"
+        regno="104"
+        department="B.Com"
+        marks="95"
+      />
+      <StudentCard
+        image="image5.jpg"
+        name="Laury"
+        regno="105"
+        department="B.Com"
+        marks="95"
+      />
+      <StudentCard
+        image="image6.jpg"
+        name="Riya"
+        regno="106"
         department="B.Com"
         marks="95"
       />

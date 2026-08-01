@@ -31,15 +31,15 @@ root.render(
     <div className="row">
 
       <StudentCard
-        image="image1.png"
-        name=""Matte
+        image="image1.jpg"
+        name="Matte"
         regno="101"
         department="BCA"
         marks="92"
       />
 
       <StudentCard
-        image="image2.png"
+        image="image2.jpg"
         name="Ron"
         regno="102"
         department="B.Sc CS"
@@ -47,13 +47,19 @@ root.render(
       />
 
       <StudentCard
-        image="image3.png"
+        image="image3.jpg"
         name="Jack"
         regno="103"
         department="B.Com"
         marks="95"
       />
-
+ <StudentCard
+        image="image4.jpg"
+        name="sen"
+        regno="103"
+        department="B.Com"
+        marks="95"
+      />
     </div>
   </div>
 );
